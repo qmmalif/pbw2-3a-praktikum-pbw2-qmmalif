@@ -1,0 +1,13 @@
+domains:
+  - pbw2-3a-praktikum-pbw2-qmmalif
+php_version: "8.5"
+node_version: "22"
+framework: laravel
+framework_version: "13"
+secured: true
+services:
+  - mailpit
+  - postgres
+  - redis
+workers:
+  - queue
