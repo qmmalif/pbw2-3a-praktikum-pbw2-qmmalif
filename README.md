@@ -8,6 +8,4 @@ Kelas : D3RPLA-49-02
 https://github.com/d3rpla-pbw2/pbw2-3a-praktikum-pbw2-qmmalif/pull/1
  
 ## Yang saya pelajari
-Tiga sampai lima kalimat: bagian mana yang paling sulit, bagaimana kamu
-mengatasinya, dan satu hal baru yang kamu pahami tentang MVC.
 Bagian yang paling sulit adalah membiasakan diri untuk memakai struktur folder yang sudah disediakan oleh Laravel. Saya mengatasinya dengan membaca modul dengan teliti. Satu hal baru yang saya pahami tentang MVC (Model View Controller) adalah ternyata kita bisa memisahkan antara logic dan tampilan di file yang berbeda, tidak seperti kodingan purba yang semuanya dicampur dalam satu file.
